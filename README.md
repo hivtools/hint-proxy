@@ -90,7 +90,6 @@ Then on the [Imperial ASK](https://imperial.service-now.com/ask) site:
   - If there is a mention of an attachment that you can't see, ring 49000 and ICT helpdesk will review visibility.
 
 ICT will email back a set of 3 certificates in a zip;
-
   - `<hostname>.crt`
   - `RootCertificates/QuoVadisOVIntermediateCertificate.crt`
   - `RootCertificates/QuoVadisOVRootCertificate.crt`
